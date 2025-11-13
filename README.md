@@ -1,12 +1,11 @@
-# Calculator CLI App
-A simple Python command-line calculator supporting addition, subtraction, multiplication, and division.
+# 🧮 Calculator CLI App
 
-## How to Run
-1. Clone the repository
-2. Run `python calculator.py`
-3. Follow the on-screen instructions
+A simple **Python command-line calculator** that performs basic arithmetic operations — addition, subtraction, multiplication, and division.
 
-## Features
-- Handles invalid inputs
-- Prevents division by zero
-- Easy CLI interface
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/Calculator-CLI-App.git
+
